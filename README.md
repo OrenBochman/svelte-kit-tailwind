@@ -36,3 +36,12 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+
+
+---
+
+# tailwind integration
+
+based on this [article](https://levelup.gitconnected.com/how-to-use-svelte-kit-with-tailwind-css-jit-just-in-time-compilation-bc04c0c9ec17) by Glory Katende
+
+work with yarn run dev
